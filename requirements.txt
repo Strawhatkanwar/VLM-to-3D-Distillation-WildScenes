@@ -1,0 +1,9 @@
+numpy
+pandas
+pyyaml
+opencv-python
+open3d
+matplotlib
+scipy
+torch
+git+https://github.com/facebookresearch/segment-anything.git
